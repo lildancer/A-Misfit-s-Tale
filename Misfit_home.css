@@ -1,0 +1,33 @@
+html {background-image: url("A Night in Dublin.jpg") ;background-size:100%;
+background-repeat:no-repeat;}
+/*header {background-image:url("A Pond.jpg");
+        background-position:center;
+      font-weight:bolder;}*/
+/* header {background-color:aliceblue;} */
+h1 {font-size:60px; text-align:center;color: #E7A071;}
+a:link{color: #2A388B;}
+a:visited {color: #5D109C;}
+a:hover{background-color: #73778F}
+a:active{background-color:#001f3f;}
+a {border-color:#D18756; border-style:outset;}
+nav {text-align:center;}
+
+.buttons {font-size:28px; text-align:center space;}
+#welcome {text-align:Center;font-size:21px;}
+.books {text-align:right;}
+.Guild {text-align:justify;
+        text-decoration:underline #62DFCE;
+        color: #2A388B;}
+p {color: aliceblue;}
+h2 {color: #0D0E8A; text-align:Center;}
+/* .Christie {background-image: url("A Pond.jpg");background-position: left; background-size: cover;} */
+h3 {color: #0D0E8A;}
+.wrapper {width:75%;margin-left:auto; margin-right:auto;}
+footer {color:white; position: absolute; right:0; bottom:0; left:0; height: 5%; background-color: #2A388B; text-align: center;}
+body {
+    min-height:100vh;
+    position:relative;
+    padding-bottom: 5%;
+}
+.titles {color:#001f3f;}
+li {color:aliceblue;}
