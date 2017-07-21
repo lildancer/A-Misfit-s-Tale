@@ -9,10 +9,10 @@ a:link{color: #2A388B;}
 a:visited {color: #5D109C;}
 a:hover{background-color: #73778F}
 a:active{background-color:#001f3f;}
-a {border-color:#D18756; border-style:outset;}
+a {border-color:#D18756; border-style:outset; }
 nav {text-align:center;}
 
-.buttons {font-size:28px; text-align:center space;}
+.buttons {font-size:28px; text-align:center space; display: inline-block;}
 #welcome {text-align:Center;font-size:21px;}
 .books {text-align:right;}
 .Guild {text-align:justify;
